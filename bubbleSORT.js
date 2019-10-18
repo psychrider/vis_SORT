@@ -1,4 +1,4 @@
-var num = [12,11,5,18,33,9,13,44,34,23];
+const num = [12,11,5,18,33,9,13,44,34,23];//array to be sorted
 
 console.log("first array :\n");
 
@@ -7,7 +7,7 @@ for(var i=0; i<10;i++){
 }
 
 console.log("second array :\n");
-
+//the sorting algo
 for(var i =0; i<10; i++){
     var max = i;
     for(var j =i+1; j<10; j++){
