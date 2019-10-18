@@ -1,2 +1,2 @@
 # vis_SORT
-viusalisation of sorting algorithms
+Viusalisation tool for sorting algorithms and graph algorithms.
