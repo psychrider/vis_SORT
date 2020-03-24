@@ -2,7 +2,7 @@ var num = [12,11,5,18,33,9,13,44,34,23];
 
 console.log("first array :\n");
 
-for(var i=0; i<10;i++){
+for(var i=0; i<10; i++){
     console.log(num[i]);
 }
 
